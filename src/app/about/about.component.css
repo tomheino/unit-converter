@@ -1,0 +1,35 @@
+.about-container {
+    padding: 2rem 15vw;
+    text-align: left;
+}
+
+mat-card-header {
+    padding: 5px 16px 2px;
+    height: 30px;
+}
+
+mat-card-content {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+mat-card-actions {
+    min-height: 40px;
+}
+
+.home-icon {
+    background-color: #3F51B5;
+    border-radius: 50%;
+    padding: 5px 7px; 
+    margin-left: 10px;
+    box-shadow: 0px 0px 4px 0px grey;
+
+  }
+  
+  .home-icon i {
+    color: white;
+  }
+
+
+
+  
